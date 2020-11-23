@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![hackorKR's github stats](https://github-readme-stats.vercel.app/api?username=hackorKR&show_icons=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hackorKR)](https://solved.ac/hackorKR)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)

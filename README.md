@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=hackorKR&show_icons=true)
+![hackorKR's github stats](https://github-readme-stats.vercel.app/api?username=hackorKR&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hackorKR)](https://solved.ac/hackorKR)
